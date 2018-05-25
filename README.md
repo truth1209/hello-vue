@@ -1,6 +1,7 @@
 # hello-vue
 
 > Vue tutorial
+
 > learn to create a vue project
 
 ## Build Setup
