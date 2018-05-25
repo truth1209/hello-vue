@@ -34,5 +34,7 @@ For a detailed explanation on how things work, check out the [guide](http://vuej
 ## Code Management
 
 git add .
+
 git commit -m "first commit"
+
 git push -u origin master
