@@ -1,6 +1,7 @@
 # hello-vue
 
-> A Vue.js project
+> Vue tutorial
+> learn to create a vue project
 
 ## Build Setup
 
@@ -28,3 +29,10 @@ npm test
 ```
 
 For a detailed explanation on how things work, check out the [guide](http://vuejs-templates.github.io/webpack/) and [docs for vue-loader](http://vuejs.github.io/vue-loader).
+
+
+## Code Management
+
+git add .
+git commit -m "first commit"
+git push -u origin master
